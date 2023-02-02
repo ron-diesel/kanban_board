@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - avoid_relative_lib_imports
+    - always_use_package_imports
+
+analyzer:
+  errors:
+    missing_required_param: error
+    missing_return: error
+    dead_code: info
+    unused_import: error
+    avoid_relative_lib_imports: error
+    always_use_package_imports: error
