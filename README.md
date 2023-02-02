@@ -14,6 +14,8 @@
 
     4. A way to export data to CSV file.
 
+[Google Play](https://play.google.com/store/apps/details?id=app.diesel.kanban_board)
+
 ## Build and Run
 
 * Set Flutter version to 3.7.1 in your environment
