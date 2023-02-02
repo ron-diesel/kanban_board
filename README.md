@@ -14,7 +14,9 @@
 
     4. A way to export data to CSV file.
 
-[Google Play](https://play.google.com/store/apps/details?id=app.diesel.kanban_board)
+## Links in stores
+
+* [Google Play](https://play.google.com/store/apps/details?id=app.diesel.kanban_board)
 
 ## Build and Run
 
