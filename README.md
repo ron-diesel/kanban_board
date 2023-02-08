@@ -18,6 +18,8 @@
 
 * [Google Play](https://play.google.com/store/apps/details?id=app.diesel.kanban_board)
 
+* [App Store](https://apps.apple.com/us/app/simple-kanban-board/id1670749530)
+
 ## Build and Run
 
 * Set Flutter version to 3.7.1 in your environment
